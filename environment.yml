@@ -17,6 +17,6 @@ dependencies:
   - tqdm
   - networkx
   - graphviz
-  - pygraphviz
-pip:
-  - jupyter-c-kernel
+  - conda-forge::pygraphviz
+  - pip:
+    - jupyter-c-kernel

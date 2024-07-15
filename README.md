@@ -4,12 +4,15 @@ Aula sobre grafos.
 
 ## Instalação
 
+1. Baixar graphviz e colocar a pasta bin no PATH do sistema: https://www.graphviz.org/
+2. Baixar MingW e colocar a pasta bin no PATH do sistema: https://sourceforge.net/projects/mingw/
+3. Rodar os seguintes comandos:
 
-```bash
-conda env create -f environment.yml
-conda activate graphs
-install_c_kernel --user
-```
+   ```bash
+   conda env create -f environment.yml
+   conda activate graphs
+   install_c_kernel --user
+   ```
 
 ## Gerando os slides
 
