@@ -1,8 +1,10 @@
-# graphs
+# Grafos
 
-Aula sobre grafos.
+Repositório da disciplina de Estrutura de Dados para a aula de grafos. 
 
 ## Instalação
+
+Estas instruções são referentes à instalação do ferramental para geração de slides.
 
 1. Baixar graphviz e colocar a pasta bin no PATH do sistema: https://www.graphviz.org/
 2. Baixar MingW e colocar a pasta bin no PATH do sistema: https://sourceforge.net/projects/mingw/
